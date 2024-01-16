@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KitapSirala/KitapSirala.iml" filepath="$PROJECT_DIR$/KitapSirala/KitapSirala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaStore/PatikaStore.iml" filepath="$PROJECT_DIR$/PatikaStore/PatikaStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week5.iml" filepath="$PROJECT_DIR$/.idea/Week5.iml" />
+    </modules>
+  </component>
+</project>
